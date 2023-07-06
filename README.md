@@ -5,7 +5,7 @@ This project is a visual tool to visualize several sorting and path finding algo
 # Starting view
 After running the program a 800x800 window will open, asking the user to choose the type of algorithms they want to visualize. User has to click the desired button.
 
-![Home](images/selection.PNG)
+![Home](https://github.com/RonnieCOOL/Visualizer/blob/5916114480d98799e18e3b310348080a2ebc3031/images/selection.PNG)
 # Searching Section 
 In this section you may select any of the following searching/pathfinding algorithms in order to view it.
 
